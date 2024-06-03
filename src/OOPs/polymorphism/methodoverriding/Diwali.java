@@ -12,7 +12,8 @@ public class Diwali extends Festival {
 		Diwali diwali = new Diwali();
 		diwali.celebrate();
 		
-		Festival festival = diwali;
+		Festival festival = new Festival();
+//		Festival festival = diwali;
 		festival.celebrate();
 		
 	}

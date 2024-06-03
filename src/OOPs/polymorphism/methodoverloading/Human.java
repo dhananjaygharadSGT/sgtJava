@@ -17,8 +17,8 @@ public class Human {
 	public static void main(String[] args) 
 	{
 		behaviour();
-		behaviour("Dhananjay");
-		behaviour(10);
+//		behaviour("Dhananjay");
+//		behaviour(10);
 	}
 
 }
